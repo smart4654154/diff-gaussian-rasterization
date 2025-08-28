@@ -1,0 +1,6 @@
+# ninja log v5
+52	20041	7694177950738162	E:/desktop/githubcode/3dgs_tool_baseviser/noramldepth_acca_diff-gaussian-rasterization/build/temp.win-amd64-cpython-310/Release/cuda_rasterizer/forward.obj	673850c1d035c12f
+1	20057	7694177950778167	E:/desktop/githubcode/3dgs_tool_baseviser/noramldepth_acca_diff-gaussian-rasterization/build/temp.win-amd64-cpython-310/Release/cuda_rasterizer/backward.obj	588ba479c8070ea4
+101	23280	7694177983191754	E:/desktop/githubcode/3dgs_tool_baseviser/noramldepth_acca_diff-gaussian-rasterization/build/temp.win-amd64-cpython-310/Release/cuda_rasterizer/rasterizer_impl.obj	c27332c4bc8695a9
+160	26500	7694178015574270	E:/desktop/githubcode/3dgs_tool_baseviser/noramldepth_acca_diff-gaussian-rasterization/build/temp.win-amd64-cpython-310/Release/ext.obj	1ee9f24f340c02de
+167	64348	7694178393812103	E:/desktop/githubcode/3dgs_tool_baseviser/noramldepth_acca_diff-gaussian-rasterization/build/temp.win-amd64-cpython-310/Release/rasterize_points.obj	23dc1cc06580aa1b
